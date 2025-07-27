@@ -1,8 +1,7 @@
 # [Material Tailwind Dashboard NextJS PRO](https://demos.creative-tim.com/nextjs-material-tailwind-dashboard-pro/#/?ref=readme-mtdnp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-tailwind-dashboard-nextjs-pro&text=Check%20Material%20Tailwind%20Dashboard%20NextJS%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20#materialtailwind%20#tailwindcss%20https://www.creative-tim.com/product/material-tailwind-dashboard-nextjs-pro)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-material-tailwind-dashboard-pro.svg)](https://github.com/creativetimofficial/nextjs-material-tailwind-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-material-tailwind-dashboard-pro.svg)](https://github.com/creativetimofficial/nextjs-material-tailwind-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/6af514ae-7eb8-45d3-a37c-2709f5f23932" />
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/781/original/material-tailwind-dashboard-nextjs-pro.jpg)
 
 Start your development with a beautiful premium Tailwind CSS admin template.
 
